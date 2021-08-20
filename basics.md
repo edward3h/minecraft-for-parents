@@ -1,3 +1,6 @@
+---
+---
+
 # Minecraft Basics
 
 ## What is Minecraft?
