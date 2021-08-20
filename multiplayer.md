@@ -1,3 +1,6 @@
+---
+---
+
 # Playing with Friends
 
 One great feature of Minecraft is playing together with friends. Kids act out their imaginary stories or figure out how to cooperate on big building projects.
