@@ -49,3 +49,11 @@ From this page you can search for your child's friends and add them.
 
 **5. Log in to the account in Minecraft**  
 When your child runs Minecraft, help them sign in using their account. There's a Sign In button on the bottom left of the main screen.
+
+## Bedrock Edition - Online Friends
+
+Once your child is signed in on Minecraft and has connected with friends, they can go to the 'Friends' tab and if any friends are playing at the moment, their world will be listed and can be joined.
+
+_(I took a screenshot when no friends were online, I'll change it later)_
+
+![Friends tab](/assets/images/mc_friend_tab.png)
