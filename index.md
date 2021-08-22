@@ -4,7 +4,9 @@ Minecraft is an incredibly popular video game, especially with kids. Parents oft
 
 Click a heading below to read that section.
 
-## [Minecraft Basics]({% link basics.md %})
+## [Minecraft Basics](basics.html)
+
+## [Playing with Friends](multiplayer.html)
 
 > ## Contributing to this site
 > If you know how to work with GitHub - great! Follow the 'View On GitHub' link at the top of the page, fork and create a pull request.  
