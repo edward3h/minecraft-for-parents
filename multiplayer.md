@@ -56,4 +56,4 @@ Once your child is signed in on Minecraft and has connected with friends, they c
 
 _(I took a screenshot when no friends were online, I'll change it later)_
 
-![Friends tab](/assets/images/mc_friend_tab.png)
+![Friends tab](/assets/images/mc_friends_tab.png)
